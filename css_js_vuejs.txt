@@ -1,0 +1,11 @@
+Jquery: https://oscarotero.com/jquery/
+
+Boostrap 4: https://hackerthemes.com/bootstrap-cheatsheet/
+
+HTML: https://digital.com/tools/html-cheatsheet/
+
+CSS: https://adam-marsden.co.uk/css-cheat-sheet
+
+CSS3: https://css3clickchart.com/?prop=3d-transforms
+
+VueJS: https://vuejs-tips.github.io/cheatsheet/
